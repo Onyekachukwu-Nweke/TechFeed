@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\blog_cms"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\ajax_with_php"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\geoLocator"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\NetEase"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\SharePoint"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\php_oop"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TechFeed"
+	}
+}
